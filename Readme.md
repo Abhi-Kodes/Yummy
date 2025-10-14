@@ -1,26 +1,51 @@
-# Yummy — Restaurant Website (Static Template)
+Yummy – Restaurant Website Template
 
-**Yummy** is a modern, responsive restaurant website template built with Bootstrap. It includes pages and sections for hero, about, menu, events, chefs, gallery, testimonials, contact and a reservation form — all in static HTML/CSS/JS and ready for quick customization and deployment (e.g., GitHub Pages).
+Live Demo: https://abhi-kodes.github.io/Yummy/index.html
 
----
+Yummy is a sleek and responsive restaurant website template crafted using the latest Bootstrap framework. Designed for eateries, cafes, bakeries, and food enthusiasts, this template offers a modern and user-friendly interface to showcase your culinary offerings.
 
-## Demo / Preview
-Open `index.html` in your browser to preview locally.
+📌 Features
 
----
+Responsive Design: Optimized for desktops, tablets, and mobile devices.
 
-## Features
-- Clean, mobile-first responsive design (Bootstrap 5).
-- Sections: Hero, About, Why Us, Stats, Menu (tabbed), Testimonials, Events, Chefs, Gallery, Contact, Book-a-Table.
-- Image lightbox, carousel/swiper, and animated counters included.
-- Contact & booking forms wired to PHP endpoints (placeholders) and client-side validation.
-- Easy to customize: packaged assets (images, CSS, JS) are placed in `assets/`.
+Bootstrap v5.3.8: Built with the latest version of the Bootstrap framework.
 
----
+Menu Sections: Organized categories for Starters, Breakfast, Lunch, and Dinner.
 
-## Quick Start
+Reservation Form: Integrated table booking form for customer convenience.
 
-1. Clone the repo:
-   ```bash
-   git clone https://github.com/<your-username>/yummy.git
-   cd yummy
+Chef Profiles: Highlight your culinary team with dedicated sections.
+
+Image Gallery: Showcase your dishes and ambiance through a visual gallery.
+
+Testimonial Section: Display customer reviews and feedback.
+
+Smooth Scroll Animations: Enhance user experience with subtle animations.
+
+SEO Optimized: Structured HTML for better search engine visibility.
+
+🛠️ Installation & Usage
+
+Clone or download the repository.
+
+git clone https://github.com/abhi-kodes/Yummy.git
+
+
+Open index.html in your preferred browser to view the template.
+
+🎨 Customization
+
+Colors & Fonts: Modify the CSS in assets/css/style.css to adjust the theme's appearance.
+
+Content: Update the HTML files to reflect your restaurant's information, menu items, and team details.
+
+Images: Replace placeholder images in the assets/img/ directory with your own high-quality photos.
+
+📞 Contact
+
+For inquiries or feedback, please reach out via the contact form on the website or email abhisheksaini2196@gmail.com
+.
+
+📄 License
+
+This template is open-source and free to use for personal and commercial projects. However, attribution to the original creator is appreciated.
